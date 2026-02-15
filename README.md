@@ -18,7 +18,7 @@ I place everything you need here to continue our projects. Please send me your i
 - Installing [TeXStudio](https://www.texstudio.org/)
 - Learning [ref1](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
-## 4. Python Book
+## 4. Python
 - The Quick Python Book - [link](https://www.manning.com/books/the-quick-python-book-fourth-edition)
 
 ## 5. Data Science and AI
