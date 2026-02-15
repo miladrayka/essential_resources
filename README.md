@@ -1,4 +1,5 @@
-I place everything you need here to continue our projects. Please send me your interesting tutorials so we can make this fantastic.
+I place everything you need here to continue our projects. Please send me your interesting tutorials too.
+
 ---
 
 # 1. Linux
