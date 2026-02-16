@@ -23,7 +23,11 @@ I place everything you need here to continue our projects. Please send me your i
 - The Quick Python Book - [link](https://www.manning.com/books/the-quick-python-book-fourth-edition)
 
 ### Video
+#### Python
 - [100 Days of Code](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOop_qa2g0PCoMOVvBBcoLN9Ne1fEXBcFrrzymE63sr27oYCBWxEl)
+- [Python Programming](https://www.pytopia.ai/courses/python)
+
+#### Packages
 - [NumPy, Pandas](https://www.pytopia.ai/courses/data-processing-for-ml)
 - [Matplotlib, Seaborn](https://www.pytopia.ai/courses/data-visualization) 
 
