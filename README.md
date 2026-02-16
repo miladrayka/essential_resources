@@ -26,7 +26,7 @@ I place everything you need here to continue our projects. Please send me your i
 - [100 Days of Code](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOop_qa2g0PCoMOVvBBcoLN9Ne1fEXBcFrrzymE63sr27oYCBWxEl)
 
 ### Blog
--[Realpython](https://realpython.com/)
+- [Realpython](https://realpython.com/)
 
 ## 5. Data Science and AI
 ### Book
@@ -34,7 +34,7 @@ I place everything you need here to continue our projects. Please send me your i
 - Hands-on Machine Learning with Scikit-Learn and PyTorch - [link](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 
 ### Video
--[Pytopia](https://www.pytopia.ai/)
+- [Pytopia](https://www.pytopia.ai/)
 
 ## 6. Solid State Physics
 - Solid State Physics: A Primer - [link](https://www.barnesandnoble.com/w/solid-state-physics-luciano-colombo/1137894798)
