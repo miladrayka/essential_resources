@@ -24,6 +24,8 @@ I place everything you need here to continue our projects. Please send me your i
 
 ### Video
 - [100 Days of Code](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOop_qa2g0PCoMOVvBBcoLN9Ne1fEXBcFrrzymE63sr27oYCBWxEl)
+- [NumPy, Pandas](https://www.pytopia.ai/courses/data-processing-for-ml)
+- [Matplotlib, Seaborn](https://www.pytopia.ai/courses/data-visualization) 
 
 ### Blog
 - [Realpython](https://realpython.com/)
