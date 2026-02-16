@@ -4,7 +4,7 @@ I place everything you need here to continue our projects. Please send me your i
 
 ## 1. Linux
 - Installing [Ubuntu](https://ubuntu.com/)
-- Learning terminal and scripting - [ref1](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview), [ref2](https://linuxcommand.org/tlcl.php)
+- Learning terminal and scripting - [ref1](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview), [ref2](https://linuxcommand.org/tlcl.php), [ref3](https://www.pytopia.ai/courses/linux)
 
 ## 2. Utilities
 - Installing [MEGA](https://mega.io/)
