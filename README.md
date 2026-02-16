@@ -19,27 +19,27 @@ I place everything you need here to continue our projects. Please send me your i
 - Learning [ref1](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 ## 4. Python
-### Book
+### 4.1. Book
 - The Quick Python Book - [link](https://www.manning.com/books/the-quick-python-book-fourth-edition)
 
-### Video
-#### Python
+### 4.2. Video
+#### 4.2.1. Python
 - [100 Days of Code](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOop_qa2g0PCoMOVvBBcoLN9Ne1fEXBcFrrzymE63sr27oYCBWxEl)
 - [Python Programming](https://www.pytopia.ai/courses/python)
 
-#### Packages
+#### 4.2.2. Packages
 - [NumPy, Pandas](https://www.pytopia.ai/courses/data-processing-for-ml)
 - [Matplotlib, Seaborn](https://www.pytopia.ai/courses/data-visualization) 
 
-### Blog
+### 4.3. Blog
 - [Realpython](https://realpython.com/)
 
 ## 5. Data Science and AI
-### Book
+### 5.1. Book
 - Python for Data Analytics - [link](https://wesmckinney.com/book/)
 - Hands-on Machine Learning with Scikit-Learn and PyTorch - [link](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 
-### Video
+### 5.2. Video
 - [Pytopia](https://www.pytopia.ai/)
 
 ## 6. Solid State Physics
